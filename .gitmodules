@@ -3,4 +3,4 @@
 	url = https://github.com/SimonSerrano/prog-client-web-audio
 [submodule "prog-back-web-audio"]
 	path = prog-back-web-audio
-	url = git@github.com:RomainGIRAUDEAU/prog-back-web-audio.git
+	url = https://github.com/RomainGIRAUDEAU/prog-back-web-audio.git
