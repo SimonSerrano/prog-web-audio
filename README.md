@@ -4,6 +4,8 @@
 ## Clone modules for the first time
 
 `git clone --recurse-submodules git@github.com:SimonSerrano/prog-web-audio.git`
+or
+`git clone --recurse-submodules https://github.com/SimonSerrano/prog-web-audio.git`
 
 
 ## Pulling submodules updates
